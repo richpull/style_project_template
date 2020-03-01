@@ -1,0 +1,16 @@
+{
+  "name": "style_project_template",
+  "version": "1.0.0",
+  "description": "scss css sass style/mixin ",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "keywords": [
+    "css",
+    "scss",
+    "sass"
+  ],
+  "author": "Bulat Sharipov",
+  "license": "ISC"
+}
